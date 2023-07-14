@@ -12,6 +12,7 @@ span{
 
 section{
     display: flex;
+    margin-bottom:150px;
 }
 
 .half-width{
@@ -20,7 +21,7 @@ section{
 }
 
 .half-width img{
-    width: 80%;
+    width: 70%;
 }
 
 .link-button{
@@ -37,3 +38,12 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-right: 150px;
+}
+
+
